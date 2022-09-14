@@ -2,6 +2,7 @@
 Create a simple static website and upload it to **AWS S3 Service**.
 ## Link
 http://swe4644bucket.s3-website-us-east-1.amazonaws.com/
+
 https://lucent-naiad-ba9ac1.netlify.app/
 ### Assignment Requirements
 * Hosted on your own cloud platform account
